@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659a8cb1-3ac1-492d-8b42-9a8c05ba9b1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecisionTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionTree.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
     </list>
@@ -65,10 +64,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1617247190672">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1617258054735">
       <screen x="0" y="22" width="1440" height="830" />
     </state>
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.22.1440.830@0.22.1440.830" timestamp="1617247190672" />
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.22.1440.830@0.22.1440.830" timestamp="1617258054735" />
     <state width="1398" height="266" key="GridCell.Tab.0.bottom" timestamp="1617253784507">
       <screen x="0" y="22" width="1440" height="831" />
     </state>
@@ -101,16 +100,5 @@
       <screen x="0" y="22" width="1440" height="831" />
     </state>
     <state width="1398" height="266" key="GridCell.Tab.1.right/0.22.1440.831@0.22.1440.831" timestamp="1617253784748" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
