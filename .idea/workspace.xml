@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="659a8cb1-3ac1-492d-8b42-9a8c05ba9b1a" name="Default Changelist" comment="" />
+    <list default="true" id="659a8cb1-3ac1-492d-8b42-9a8c05ba9b1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qYBjqTe0n3vIRqqhJx2Hvs4MLE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +32,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Decision trees" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,5 +69,48 @@
       <screen x="0" y="22" width="1440" height="830" />
     </state>
     <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.22.1440.830@0.22.1440.830" timestamp="1617247190672" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom" timestamp="1617253784507">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.22.1440.831@0.22.1440.831" timestamp="1617253784507" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center" timestamp="1617253784506">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.center/0.22.1440.831@0.22.1440.831" timestamp="1617253784506" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left" timestamp="1617253784505">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.left/0.22.1440.831@0.22.1440.831" timestamp="1617253784505" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right" timestamp="1617253784506">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.right/0.22.1440.831@0.22.1440.831" timestamp="1617253784506" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1617253784748">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.22.1440.831@0.22.1440.831" timestamp="1617253784748" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1617253784747">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.22.1440.831@0.22.1440.831" timestamp="1617253784747" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1617253784747">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.22.1440.831@0.22.1440.831" timestamp="1617253784747" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1617253784748">
+      <screen x="0" y="22" width="1440" height="831" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.22.1440.831@0.22.1440.831" timestamp="1617253784748" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
